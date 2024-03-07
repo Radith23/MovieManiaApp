@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">ProjectSubmission</string>
+    <string name="movies_name">Nama Film</string>
+    <string name="genre">Genre</string>
+    <string name="about"><u>About</u></string>
+    <string name="grid">Grid</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="nama_about">Radithya Javas Marchad</string>
+    <string name="email_about">radithyamarchad3@gmail.com</string>
+    <string name="profile">Radithya Javas Marchad is an undergraduate Information Technology student at the Brawijaya University who is passionate about programming and software development.
+        \n\nMost of his work are related to collaborative teamwork and happy to actively seeking opportunities to collaborate with fellow developers.
+        \n\nHe is also has a high interest to learn more about Mobile Development and Front-End Development based on what he learn.</string>
+
+    <string-array name="data_name">
+        <item>Avengers Endgame</item>
+        <item>Batman</item>
+        <item>Black Panther</item>
+        <item>Dune</item>
+        <item>Free Guy</item>
+        <item>Glass</item>
+        <item>Godzilla King of The Monster</item>
+        <item>Guardians of The Galaxy</item>
+        <item>Inception</item>
+        <item>Interstellar</item>
+        <item>Jumanji Next Level</item>
+        <item>Pirates of Caribbean</item>
+        <item>The Greatest Showman</item>
+        <item>Up</item>
+        <item>Wall E</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Superhero</item>
+        <item>Action, Crime Film, Superhero</item>
+        <item>Action, Adventure, Superhero</item>
+        <item>Novel, Science Fiction, Adventure fiction</item>
+        <item>Action, Comedy, Science Fiction</item>
+        <item>Horror, Mystery, </item>
+        <item>Sci-fi, Action, Monster</item>
+        <item>Action, Fantasy, Superhero</item>
+        <item>Sci-fi, Action</item>
+        <item>Sci-fi, Adventure, Science fiction</item>
+        <item>Comedy, Adventure, Action</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Novel, Science Fiction, Adventure fiction</item>
+        <item>Musical, Romance, Drama</item>
+        <item>Adventure, Comedy, Cartoon</item>
+        <item>Animation, Family, Sci-fi</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/avengers_endgame</item>
+        <item>@drawable/batman</item>
+        <item>@drawable/black_panther</item>
+        <item>@drawable/dune</item>
+        <item>@drawable/free_guy</item>
+        <item>@drawable/glass</item>
+        <item>@drawable/godzilla_king_of_the_monsters</item>
+        <item>@drawable/guardians_of_the_galaxy</item>
+        <item>@drawable/inception</item>
+        <item>@drawable/interstellar</item>
+        <item>@drawable/jumanji_next_level</item>
+        <item>@drawable/pirates_of_caribbean</item>
+        <item>@drawable/the_greatest_showman</item>
+        <item>@drawable/up</item>
+        <item>@drawable/wall_e</item>
+    </integer-array>
+
+    <string name="avengers_endgame">Film Avengers: Endgame merupakan sekuel terakhir dari rangkaian film The Avengers yang berada dalam timeline Marvel Cinematic Universe atau MCU. Film ini menceritakan peristiwa yang terjadi dalam rentang waktu lima tahun berselang dari film sebelumnya, Avengers: Infinity War.
+        \n\nPada Avengers: Infinity War, dikisahkan bahwa setengah populasi dunia hilang karena ulah Thanos. Dua puluh tiga hari setelah peristiwa itu, Captain Marvel menyelamatkan Tony Stark dan Nebula dari luar angkasa. Mereka pun bergabung dengan para Avengers yang tersisa.
+        \n\nPara Avengers tersebut kemudian membuat misi untuk mengambil infinity stone dari Thanos, namun Thanos telah menghancurkannya. Thor yang marah kemudian membunuh Thanos. Lima tahun setelah peristiwa yang disebut blip itu terjadi, orang-orang yang ditinggalkan masih merasakan kehilangan yang amat dalam, tak terkecuali para Avengers yang tersisa.
+        \n\nMeski begitu, mereka pun mulai berusaha menjalani kehidupan masing-masing, Tony Stark hidup bahagia bersama Pepper Potts dan telah memiliki seorang putri. Thor menghabiskan waktunya untuk mabuk dan menonton TV. Sementara Steve Rogers dan Natasha Romanoff tetap berada di markas mereka.
+        \n\nHarapan baru muncul saat Scott Lang atau Ant Man keluar dari dunia quantum realm. Scott Lang yang kaget dengan keadaan dunia dan putrinya yang menghilang pun bertemu dengan para Avengers. Scott Lang kemudian meyakinkan Avengers bahwa teori quantum realm memungkinkan mereka untuk melakukan perjalanan waktu dan mengambil infinity stone sebelum dicuri oleh Thanos.
+        \n\nTony Stark, Bruce Banner, dan Rocket kemudian membuat sebuah mesin waktu. Mereka kemudian membentuk tim untuk menyebar dan mengambil infinity stone di berbagai tempat tersebut. Saat para Avengers hampir berhasil membuat infinity gauntlet seperti milik Thanos, Nebula dari masa lalu yang masih memihak Thanos menggunakan mesin waktu tersebut dan menghancurkan rencana para Avengers.
+        \n\nThanos dari masa lalu pun kemudian datang ke masa tersebut dan kembali berhadapan dengan para Avengers. Pertarungan besar pun terjadi. Thanos mengerahkan semua pasukannya. Sementara Avengers yang hampir kalah kemudian mendapat bantuan dari semua pahlawan yang datang.
+        \n\nSaat para Avengers kembali tersudut, Tony Stark akhirnya mengorbankan dirinya untuk mengambil infinity gauntlet Thanos dan menggunakannya untuk mengembalikan populasi dunia  yang menghilang. Kekuatan yang terlalu besar dari infinity gauntlet pun membuat Tony Stark tewas. Pemakamannya dihadiri oleh seluruh Avengers yang kini telah kembali.
+        \n\nSetelah itu, Thor, memberikan kekuasaan Asgard pada Valkyrie dan kemudian bergabung dengan tim Guardians of the Galaxy. Sementara Steve Rogers bertugas mengembalikan Mjolnir milik Thor dan infinity stone ke tempatnya semula. Saat kembali ke masa sekarang, Steve Rogers telah berubah menjadi tua karena ia memilih untuk pensiun dan hidup menjadi orang biasa di masa lalu.
+        \n\nPerisainya pun diberikan kepada Sam Wilson atau Falcon dan disaksikan oleh Bucky Barnes atau Winter Soldier.</string>
+
+    <string name="the_batman">The Batman menampilkan perjalanan Bruce Wayne yang sudah berada di tahun keduanya sebagai sang Caped Crusader. Ia menjadi pemburu kriminal yang kemunculannya ditakuti para penjahat di Gotham. Pada suatu malam perayaan Halloween, Walikota Gotham Don Mitchell Jr. ditemukan tewas di tangan seorang pembunuh berantai misterius.
+        \n\nPembunuh itu menyebut dirinya sebagai The Riddler. Batman kemudian menyelidiki kematian itu bersama kepolisian Gotham dan Letnan James Gordon (Jeffrey Wright). Saat melancarkan misinya, The Riddler selalu meninggalkan pesan berisi teka-teki yang harus dipecahkan Batman dengan bantuan James Gordon.
+        \n\nSetelah menelusuri pesan misterius dari Riddler, mereka menemukan foto walikota Mitchell bersama seorang wanita bernama Annika di klub hiburan malam Iceberg Lounge. Tempat itu dioperasikan Oswald Penguin Cobblepot (Colin Farrell). Penguin merupakan orang kepercayaan bos mafia Gotham, Carmine Falcone (John Turturro).</string>
+
+    <string name="black_panther_wakanda_forever">Black Panther Wakanda Forever kembali bercerita tentang kerajaan Wakanda dan masyarakatnya dengan berbagai kecanggihan teknologi yang dimilikinya.  Kerajaan ini sedang berduka atas kehilangan sosok raja mereka yaitu sang raja T’Challa yang meninggal dunia.
+        \n\nSatu tahun sejak kepergiannya, Wakanda harus dihadapkan dengan masalah yang cukup pelik. Dunia luar  mencoba untuk mengambil vibranium dari Wakanda karena menilai Wakanda semakin lemah tanpa Black Panther. Hal ini membuat Wakanda harus terus bertahan dan tetap kuat dengan berbagai gempuran pihak luar terhadap Wakanda.
+        \n\nPencarian vibranium ini berlanjut melalui ekspedisi yang dilakukan oleh pemerintah Amerika Serikat menuju ke laut dengan menggunakan mesin detektor vibranium yang dimilikinya. Mereka menemukan bahwa sumber energi vibranium berada di dasar laut Wakanda.
+        \n\nTanpa mereka sadari, tim ekspedisi tersebut tiba-tiba diserang oleh makhluk misterius yang berada di dasar laut tersebut. Tindakan ini rupanya menyulut kemarahan bangsa Talokan, sebuah peradaban bawah laut yang selama ini mengasingkan diri dari dunia daratan selama ribuan tahun. Bangsa ini dipimpin oleh seorang raja bernama Namor (Tenoch Huerta), seorang mutan berkekuatan super yang telah memimpin selama berabad-abad.</string>
+
+    <string name="dune">Dune bercerita tentang kehidupan manusia di masa depan, tepatnya tahun 10191, yang tinggal di planet berbeda. Kisah dalam film ini berawal dari Kerajaan Caladan di planet lautan yang dipimpin oleh Duke Leto Atreides.
+        \n\nKaisar memberi mandat kepada Duke Leto Atreides dan putranya yang bernama Paul Atreides (pewaris tahta House Atreides), untuk mengelola sebuah planet. Planet tersebut bernama planet Arrakis, atau juga dikenal sebagai Dune. Planet ini digambarkan sebagai planet gurun atau padang pasir yang sangat luas dan berbahaya. Namun, dibalik bahayanya, planet ini juga memiliki sumber daya penting berupa obat langka yang bernama melange.
+        \n\nObat langka melange dari planet Arrakis/ Dune dapat meningkatkan kemampuan atau tingkat pemikiran manusia. Selain itu, rempah ini juga bisa mengantarkan manusia pada perjalanan ruang angkasa dengan kecepatan sangat tinggi. Tugas Leto Atreides adalah berburu dan menambang melange di planet Arrakis.
+        \n\nDalam menjalankan tugasnya, Leto Atreides membawa Paul, Lady Jessica, dan beberapa orang kepercayaan Atreides di Dune. Klan Atreides sendiri sebenarnya adalah pewaris sah Planet Arrakis. Namun, mereka tidak sendirian di sini. Planet ini juga dihuni oleh suku pribumi yang tinggal di gua gurun atau padang pasir.</string>
+
+    <string name="free_guy">Free Guy menceritakan tentang seorang pria bernama Guy (Ryan Reynolds), yang bekerja sebagai teller bank. Setiap hari dia merasa kehidupan yang dijalaninya bahagia dan serba cukup.Tapi kedamaian itu hilang ketika bank didatangi kelompok perusuh bersenjata.
+        \n\nDi tengah kericuhan itu, Guy bertemu dengan seorang perempuan bernama Milly (Jodie Comer). Milly berusaha menyadarkan Guy bahwa kehidupan yang dimilikinya ini fiksi karena dia ada di dalam video game. Guy ternyata hanyalah Non Player Character (NPC).
+        \n\nGuy merasa terpukul karena kehidupannya yang sempurna hanya sebatas video game. Sialnya lagi, Milly memberi tahu bahwa sang pencipta video game ingin menghancurkan dunianya. Setelah beradaptasi dengan kenyataan, Guy akhirnya memilih terlibat dalam permainan ini bersama Milly. Jika tidak, mereka akan kalah dan tak selamat dari permainan video game ini.</string>
+
+    <string name="glass">Kevin Wendell Crumb adalah seorang mantan pegawai kebun binatang yang mengidap Disssociative Identity Diseorder (DID). Dia mempunyai 23 kepribadian yang membuat dia bisa berubah menjadi orang lain dalam sekejap.
+        \n\nBukan hanya dari pola pikir, tapi juga dari aksen dan caranya bersikap. Salah satunya adalah The Beast, manusia kanibal yang kejam. Tiga pekan setelah banyaknya kejadian yang disebabkan oleh Kevin, David Dunn mulai bertindak sebagai vigilante atau orang yang mencoba menegakkan keadilan dengan caranya sendiri.
+        \n\nDia menyebut dirinya The Overseer. David bukanlah orang biasa, dia adalah satu-satunya orang yang selamat dari kecelakaan kereta api 19 tahun sebelumnya. Bersama sang anak, Joseph, dia berkeliaran di Philadelphia untuk menegakkan keadilan, dan salah satu tujuan besarnya adalah menemukan Kevin.
+        \n\nBerbekal visi yang menyatakan bahwa Kevin masih menyekap empat orang cheerleader, David mencoba mendatangi sebuah pabrik yang sudah nggak dipakai. Hasilnya, dia berhasil menemukan empat orang yang disekap sesuai dengan bayangan yang dia dapat dan membebaskan mereka. Tapi, Kevin sudah dalam posisi menjadi The Beast yang membuat keduanya baku hantam. Pertengkaran antara David dan Kevin berlangsung sampai keluar pabrik.</string>
+
+    <string name="godzilla_king_of_the_monsters">Latar waktu menunjukkan lima tahun setelah keberadaan monster raksasa yang disebut Titans terungkap. Dr Emma Russell, seorang ahli paleobiologi yang bekerja untuk organisasi studi Titan Monarch dan putrinya Madison, menyaksikan kelahiran larva bernama Mothra.
+        \n\nEmma menenangkan Mothra menggunakan "Orca," sebuah perangkat yang dapat memancarkan frekuensi untuk menarik atau mengubah perilaku Titan. Tiba-tiba sekelompok ekoteroris, yang dipimpin oleh mantan Kolonel Angkatan Darat Inggris Alan Jonah, menyerang pangkalan dan menculik Emma dan Madison.
+        \n\nPada saat yang sama, Mothra melarikan diri. Ilmuwan Dr Ishirō Serizawa dan Vivienne Graham mendekati Dr Mark Russell, mantan suami Emma dan ayah Madison, untuk membantu melacak keberadaan Mothra. Mark mulanya enggan karena kebenciannya terhadap Godzilla, yang dia salahkan atas kematian putranya Andrew selama peristiwa di San Francisco.
+        \n\nTetapi akhirnya ia luluh dan setuju. Mark mulanya enggan karena kebenciannya terhadap Godzilla, yang dia salahkan atas kematian putranya Andrew selama peristiwa di San Francisco. Tetapi akhirnya ia luluh dan setuju.</string>
+
+    <string name="guardians_of_the_galaxy">Petualang luar angkasa yang kurang ajar, Peter Quill (Chris Pratt) mendapati dirinya menjadi buruan para pemburu hadiah yang tiada henti setelah dia mencuri sebuah bola yang didambakan oleh Ronan, seorang penjahat yang kuat.
+        \n\nUntuk melarikan diri dari Ronan, Quill terpaksa melakukan gencatan senjata yang tidak mudah dengan empat orang yang berbeda: Rocket Raccoon yang membawa senjata, Groot yang mirip pohon, Gamora yang penuh teka-teki, dan Drax the Destroyer yang penuh dendam.
+        \n\nNamun saat dia mengetahui kekuatan sebenarnya dari bola tersebut dan ancaman kosmik yang ditimbulkannya, Quill harus mengerahkan kelompoknya untuk menyelamatkan alam semesta.</string>
+
+    <string name="inception">Dalam film ini, dikisahkan seorang pencuri ulung bernama Dom Cobb (Leonardo DiCaprio). Berbeda dari pencuri pada umumnya, Cobb ternyata mencuri rahasia penting yang terletak di alam bahwa sadar korbannya.
+        \n\nIa melancarkan aksinya ketika sang korban tengah dalam keadaan bermimpi. Sayangnya, sekalipun kemampuannya yang tidak biasa ini membuat namanya tersohor di dunia spionase, pekerjaan Cobb ternyata membuatnya menjadi buronan internasional.
+        \n\nTerlebih lagi, ia juga harus terpisah dari keluarganya yang begitu ia cintai. Namun, suatu saat, kesempatan untuk memperbaiki nasibnya muncul ketika ia ditawari sebuah misi yang berbeda dari sebelum-sebelumnya. Kali ini, Cobb bersama dengan tim bentukannya harus menanamkan sebuah ide dalam benak Robert Fischer.
+        \n\nSama seperti misi-misi sebelumnya, tentu ada seorang musuh yang selalu siap mengacaukan rencana Cobb dan kawan-kawannya. Akankah Cobb berhasil menyelesaikan misi terakhirnya ini?</string>
+
+    <string name="interstellar">Di masa depan bumi, penyakit busuk tanaman global dan Dust Bowl kedua perlahan-lahan menjadikan planet ini tidak dapat dihuni. Profesor Brand (Michael Caine), seorang fisikawan NASA yang brilian, sedang mengerjakan rencana untuk menyelamatkan umat manusia dengan mengangkut populasi bumi ke rumah baru melalui lubang cacing.
+        \n\nTapi pertama-tama, Brand harus mengirim mantan pilot NASA Cooper (Matthew McConaughey) dan tim peneliti melewati lubang cacing dan melintasi galaksi untuk mencari tahu mana dari tiga planet yang bisa menjadi rumah baru umat manusia.</string>
+
+    <string name="jumanji_next_level">Saat Spencer kembali ke dunia fantasi Jumanji, Martha, Fridge, dan Bethany kembali memasuki permainan untuk membawanya pulang. Namun permainan tersebut kini rusak -- dan melakukan perlawanan.
+        \n\nSemua yang diketahui teman-teman tentang Jumanji akan berubah, karena mereka segera menyadari bahwa ada lebih banyak rintangan dan bahaya yang harus diatasi.</string>
+
+    <string name="pirates_of_the_caribbean_dead_men_tell_no_tales">Didorong ke dalam petualangan baru, Kapten Jack Sparrow yang kurang beruntung merasakan angin nasib buruk bertiup lebih kencang ketika para pelaut hantu mematikan yang dipimpin oleh musuh lamanya, Kapten Salazar yang jahat, melarikan diri dari The Devil Triangle.
+        \n\nSatu-satunya harapan Jack untuk bertahan hidup terletak pada mencari Trident of Poseidon yang legendaris, namun untuk menemukannya, ia harus membentuk aliansi yang tidak mudah dengan seorang astronom yang brilian dan cantik serta seorang pemuda keras kepala di angkatan laut Inggris.</string>
+
+    <string name="the_greatest_showman">Film ini menceritakan kisah tentang PT Barnum (Hugh Jackman) yang diberhentikan dari perusahaannya yang akan bangkrut. Barnum pun berpikir meminjam uang dari bank untuk membeli sebuah museum dimana museum tersebut memajang berbagai macam patung lilin.
+        \n\nSayangnya penjualan tiket museum sangat rendah. Di tengah sepi pengunjung museum, sang anak pun memberikan ide untuk mempertunjukkan sesuatu yang "hidup" untuk museumnya. Saat itulah ia mulai bertemu dengan banyak pemain untuk bisa bergabung dalam pertunjukkan sirkusnya.</string>
+
+    <string name="up">Carl Fredricksen, seorang penjual balon berusia 78 tahun, akan mewujudkan impian seumur hidupnya. Mengikat ribuan balon ke rumahnya, dia terbang ke hutan belantara Amerika Selatan.
+        \n\nNamun mimpi buruk terburuk Carl menjadi kenyataan ketika dia menemukan seorang anak kecil bernama Russell adalah penumpang gelap di rumah bertenaga balon. Sebuah animasi Pixar.</string>
+
+    <string name="walle">WALL-E, kependekan dari Waste Allocation Load Lifter Earth-class, adalah robot terakhir yang tersisa di Bumi. Dia menghabiskan hari-harinya membereskan planet ini, satu demi satu sampah.
+        \n\nNamun selama 700 tahun, WALL-E telah mengembangkan kepribadiannya, dan dia merasa sangat kesepian. Kemudian dia melihat EVE (Elissa Knight), sebuah pesawat luar angkasa ramping dan indah yang dikirim kembali ke Bumi untuk misi pemindaian.
+        \n\nSmitten WALL-E memulai petualangan terhebatnya saat dia mengikuti EVE melintasi galaksi.</string>
+
+</resources>
