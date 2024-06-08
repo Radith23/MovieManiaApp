@@ -5,15 +5,8 @@ Moviemania is an app that shows a several lists of films along with their genres
 - **Clean and Simple Design** : Each movie is contained within a CardView displaying the name and genre of each movie provided, giving the user convenience.
 - **Detailed View and Share** : Users can click one of the movie to view more details about it and share it, making it easy to know & explore about the movie.
 ## Screenshots
-<table>
-  <tr>
-    <td>Splash Screen</td>
-     <td>Main</td>
-     <td>Detail</td>
-  </tr>
-  <tr>
-    <td><img src="movieMania-splash.png" width=185 height=400></td>
-    <td><img src="movieMania-main.png" width=185 height=400></td>
-    <td><img src="movieMania-detail.png" width=185 height=400></td>
-  </tr>
- </table>
+<div align="center">
+	<img width = "50%" src="movieMania-splash.png">
+<img width = "50%" src="movieMania-main.png">
+  <img width = "50%" src="movieMania-detail.png">
+</div>
