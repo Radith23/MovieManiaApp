@@ -6,3 +6,5 @@ Moviemania is an app that shows a several lists of films along with their genres
 - **Detailed View and Share** : Users can click one of the movie to view more details about it and share it, making it easy to know & explore about the movie.
 ## Screenshots
 ![Screenshot connection](movieMania-splash.png)
+![Screenshot connection](movieMania-main.png)
+![Screenshot connection](movieMania-detail.png)
