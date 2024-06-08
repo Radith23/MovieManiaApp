@@ -12,8 +12,8 @@ Moviemania is an app that shows a several lists of films along with their genres
      <td>Detail</td>
   </tr>
   <tr>
-    <td><img src="movieMania-splash.png" width=270 height=480></td>
-    <td><img src="movieMania-main.png" width=270 height=480></td>
-    <td><img src="movieMania-detail.png" width=270 height=480></td>
+    <td><img src="movieMania-splash.png" width=185 height=400></td>
+    <td><img src="movieMania-main.png" width=185 height=400></td>
+    <td><img src="movieMania-detail.png" width=185 height=400></td>
   </tr>
  </table>
